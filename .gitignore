@@ -3,3 +3,10 @@
 .env
 __pycache__/
 .streamlit/secrets.toml
+
+# Older experiments kept locally
+/app.py
+/tools.py
+/langgraph_agent.py
+/langgraph_basics.py
+/langgraph_basics0.py
